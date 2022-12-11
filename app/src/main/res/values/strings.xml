@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Interactive App</string>
+    <string name="PAGE0_TEXT">On your return trip from studying Saturn\'s rings, you hear a distress signal that seems to be coming from the surface of Mars. It\'s strange because there hasn\'t been a colony there in years. Even stranger, it\'s calling you by name: "Help me, %1$s, you\'re my only hope."</string>
+    <string name="PAGE1_TEXT">You deftly land your ship near where the distress signal originated. You didn\'t notice anything strange on your fly-by, but there is a cave in front of you. Behind you is an abandoned rover from the early 21st century.</string>
+    <string name="PAGE2_TEXT">You continue your course to Earth. Two days later, you receive a transmission from HQ saying that they have detected some sort of anomaly on the surface of Mars near an abandoned rover. They ask you to investigate, but ultimately the decision is yours because your mission has already run much longer than planned and supplies are low.</string>
+    <string name="PAGE3_TEXT">Your EVA suit is equipped with a headlamp, which you use to navigate the cave. After searching for a while your oxygen levels are starting to get pretty low. You know you should go refill your tank, but there\'s a very faint light up ahead.</string>
+    <string name="PAGE4_TEXT">The rover is covered in dust and most of the solar panels are broken. But you are quite surprised to see the on-board system booted up and running. In fact, there is a message on the screen: "%1$s, come to 28.543436, -81.369031." Those coordinates aren\'t far, but you don\'t know if your oxygen will last there and back.</string>
+    <string name="PAGE5_TEXT">After a long walk slightly uphill, you end up at the top of a small crater. You look around, and are overjoyed to see your favorite android, %1$s-S1124. It had been lost on a previous mission to Mars! You take it back to your ship and fly back to Earth.</string>
+    <string name="PAGE6_TEXT">You arrive home on Earth. While your mission was a success, you forever wonder what was sending that signal. Perhaps a future mission will be able to investigate...</string>
+    <string name="PAGE0_CHOICE_1_TEXT">Stop and investigate</string>
+    <string name="PAGE0_CHOICE_2_TEXT">Continue home to Earth</string>
+    <string name="PAGE1_CHOICE_1_TEXT">Explore the cave</string>
+    <string name="PAGE1_CHOICE_2_TEXT">Explore the rover</string>
+    <string name="PAGE2_CHOICE_1_TEXT">Head back to Mars to investigate</string>
+    <string name="PAGE2_CHOICE_2_TEXT">Continue home to Earth</string>
+    <string name="PAGE3_CHOICE_1_TEXT">Refill at ship and explore the rover</string>
+    <string name="PAGE3_CHOICE_2_TEXT">Continue towards the faint light</string>
+    <string name="PAGE4_CHOICE_1_TEXT">Explore the coordinates</string>
+    <string name="PAGE4_CHOICE_2_TEXT">Return to Earth</string>
+    <string name="CHOOSE_A_NAME">You must choose a name!</string>
+
+    <string name="START_BTN_TEXT">START YOUR ADVENTURE!</string>
+    <string name="CHOOSE_OPTION_BTN_TEXT">CONTINUE</string>
+    <string name="DONE_BTN_TEXT">MAIN MENU</string>
+    <string name="EXIT_BTN_TEXT">QUIT!</string>
+    <string name="YOUR_NAME_PLACEHOLDER">Your Name Here</string>
+</resources>
